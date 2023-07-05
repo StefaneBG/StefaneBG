@@ -1,6 +1,6 @@
 
 
- <div style="display:flex">
+ <div style="display:flex; flex-diraction: row">
    <a href="https://github.com/StefaneBG">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefaneBG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaneBG&layout=compact&langs_count=6&theme=tokyonight"/>
