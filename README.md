@@ -10,11 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <div align="center">
-  ![Snake animation](https://github.com/StefaneBG/StefaneBG/blob/output/github-contribution-grid-snake.svg)
 
-  
-</div>
 </div>
  
  <br>
@@ -23,5 +19,5 @@
 <div> 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ed603d3b344677c04cf489150759e985.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 
-
+  ![Snake animation](https://github.com/StefaneBG/StefaneBG/blob/output/github-contribution-grid-snake.svg)
 </div>
