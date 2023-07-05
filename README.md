@@ -12,7 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <div align="center">
 
-  ![Snake animation](https://github.com/StefaneBG/StefaneBG/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 </div>
@@ -22,7 +21,6 @@
  
 <div> 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ed603d3b344677c04cf489150759e985.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
-
 
 
 </div>
