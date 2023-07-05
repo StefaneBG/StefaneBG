@@ -1,6 +1,6 @@
 
 
- <div>
+ <div style="display:flex">
    <a href="https://github.com/StefaneBG">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefaneBG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaneBG&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -16,13 +16,8 @@
  <br>
  
  
-<div> 
+<div align> 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ed603d3b344677c04cf489150759e985.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 
 </div>
-<div align="center">
 
-
-  ![Snake animation](https://github.com/StefaneBG/StefaneBG/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
