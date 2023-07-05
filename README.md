@@ -16,7 +16,7 @@
  
  
 <div> 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ed603d3b344677c04cf489150759e985.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ed603d3b344677c04cf489150759e985.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
   
   ![Snake animation](https://github.com/StefaneBG/StefaneBG/blob/output/github-contribution-grid-snake.svg)
 
